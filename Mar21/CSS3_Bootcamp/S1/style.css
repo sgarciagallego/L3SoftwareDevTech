@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+html,
+body {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-family: Sora, sans-serif;
+}
+
+p.class {
+  text-decoration: underline;
+  color: rgba(255, 200, 155, 1);
+}
+
+p#id {
+  font-family: Sora, sans-serif;
+  color: #555;
+}
